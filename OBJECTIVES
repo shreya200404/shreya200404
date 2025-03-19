@@ -1,0 +1,44 @@
+Prac 1:- Objectives 
+* Configure OSPF MD5 authentication. 
+* Configure NTP. 
+* Configure routers to log messages to the syslog server. 
+* Configure R3 to support SSH connections.
+
+
+
+
+
+
+
+Prac 2:-   Objectives 
+* Configure a local user account on R1 and configure authenticate on the console and vty lines using local 
+AAA. 
+* Verify local AAA authentication from the R1 console and the PC-A client.
+
+
+
+Prac 3   :-  Objectives 
+Part 1: Configure, Apply and Verify an Extended Numbered ACL 
+Part 2: Configure, Apply and Verify an Extended Named ACL
+
+
+
+Prac 3b:- Objectives 
+Part 1: Configure, Apply and Verify an Extended Numbered ACL 
+Part 2: Reflection Questions
+
+
+
+
+Prac 6:-  Objectives 
+* Verify connectivity among devices before firewall configuration. 
+* Configure a zone-based policy (ZPF) firewall on R3. 
+* Verify ZPF firewall functionality using ping, SSH, and a web browser.
+
+
+
+Prac9:-  Objectives 
+* Connect a new redundant link between SW-1 and SW-2. 
+* Enable trunking and configure security on the new trunk link between SW-1 and SW-2. 
+* Create a new management VLAN (VLAN 20) and attach a management PC to that VLAN. 
+* Implement an ACL to prevent outside users from accessing the management VLAN.
